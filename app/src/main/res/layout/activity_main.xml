@@ -64,7 +64,7 @@
                     android:id="@+id/etName"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="e.g. Dua Lipa"
+                    android:hint="e.g. Dua "
                     android:inputType="textCapWords"
                     android:textColor="#363A43"
                     android:textColorHint="#7A8089"
